@@ -2,10 +2,10 @@
 A Price Comparison website
 ## Local Installation
 1.  Open the terminal in the folder where you want to save the code file. 
-2.  Clone the repository using the command `git clone https://github.com/cmdsiraj/PriceDeck.git`.
+2.  Clone the repository using the command `git clone https://github.com/Saideepreddy123/PriceDeck.git`.
 3.  Go to folder PriceDeck. You can use this command to navigate to that directory `cd .\PriceDeck\`.
 4.  Installing dependencies: `npm install`.
-5.  You can find the server files here: https://github.com/cmdsiraj/price-deck-server (clone this repo and place inside this folder (PriceDeck)
+5.  You can find the server files here: https://github.com/Saideepreddy123/Price_Deck_Server.git (clone this repo and place inside this folder (PriceDeck)
 6.  cd to flask-server with the help of command  `cd .\flask-server\`.
 7.  Creating virtual environment with the help of command `virtualenv venv`.
 8.  Activate virtual environment using command `venv/Scripts/activate`.
